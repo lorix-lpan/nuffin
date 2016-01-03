@@ -1,0 +1,24 @@
+{
+  "name": "nuffin",
+  "version": "0.0.0",
+  "description": "A RESTful file sharing API written in Nodejs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorix-lpan/nuffin.git"
+  },
+  "keywords": [
+    "file",
+    "sharing",
+    "urlshortener"
+  ],
+  "author": "Lawrence Pan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lorix-lpan/nuffin/issues"
+  },
+  "homepage": "https://github.com/lorix-lpan/nuffin#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
